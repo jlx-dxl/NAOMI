@@ -1,4 +1,5 @@
 # NAOMI
  article：https://www.sciencedirect.com/science/article/pii/S0165027021001084
- Neuron imaging lacks ground truth and evaluation indicators, and lacks the ability to verify large-scale systems for the use and development of optical microscopy;
+
+Neuron imaging lacks ground truth and evaluation indicators, and lacks the ability to verify large-scale systems for the use and development of optical microscopy;
 Two-photon microscopy (TPM) combined with calcium imaging can simultaneously record more than 9000 neurons with cell-level resolution; however, many experimental techniques and data processing algorithms based on two-photon microscopy lack proper systematic evaluation, For example, when extracting the activity trajectory and spatial distribution of neurons, there are almost no other methods to evaluate the accuracy of segmentation except for comparison with manually annotated data (manual annotation cannot distinguish potential neural impulses and is limited by information). noise ratio, the analysis of neurons with weak or sparse firing is usually biased); and evaluation usually requires simultaneous electrophysiological recording and TPM recording of neurons, such experiments are difficult to perform, limited to a small number of neurons and imaging conditions; significantly increased the cost of collecting imaging data for evaluation;
