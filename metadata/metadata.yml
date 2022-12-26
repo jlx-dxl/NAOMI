@@ -1,0 +1,23 @@
+metadata_version: 1
+name: NAOMi Simulation
+description: This code implements the simulation code associated with the paper "Neural Anatomy and Optical Microscopy (NAOMi) Simulation for evaluating calcium imaging methods".
+tags:
+- Neuroscience
+- Biophysical modeling and simulation
+authors:
+- name: Adam S. Charles
+  affiliations:
+  - name: Princeton University
+- name: Alex Song
+  affiliations:
+  - name: Princeton University
+- name: Jeffery L. Gauthier
+- name: Jonathan W. Pillow
+  affiliations:
+  - name: Princeton University
+- name: David W. Tank
+  affiliations:
+  - name: Princeton University
+corresponding_contributor:
+  name: Adam Charles
+  email: adamsc@princeton.edu
